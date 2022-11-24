@@ -8,5 +8,5 @@ Research Area Assignment: https://doi.org/10.5281/zenodo.7310341
 
 SDG Assignment: https://doi.org/10.5281/zenodo.7310353
 
-Details about CSTrack platforms and IDs are available in Zenodo: https://doi.org/10.5281/zenodo.7356627
+Details about CS platforms and IDs are available in Zenodo: https://doi.org/10.5281/zenodo.7356627
 
