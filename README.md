@@ -1,6 +1,6 @@
 # CS project-categorization
 
-This repository consist of two notebooks related to the studies reported in section 7.2 of D2.2 deliverable.
+This repository consist of three notebooks related to the studies reported in D2.1 deliverable and section 7.2 of D2.2 deliverable.
 
 The input data used for the analysis and analysis results can be found in Zenodo.
 
